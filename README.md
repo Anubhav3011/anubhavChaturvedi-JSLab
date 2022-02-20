@@ -1,2 +1,1 @@
-# anubhavChaturvedi_JSLab
-JS Lab (Anubhav Chaturvedi)
+# JS Lab (Anubhav Chaturvedi)
